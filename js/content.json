@@ -1,0 +1,25 @@
+{
+    "header": {
+        "phone": "+254 763 633 681",
+        "email": "krcconsultinghub@gmail.com",
+        "social": {
+            "twitter": "",
+            "facebook": "",
+            "youtube": "",
+            "instagram": "",
+            "linkedin": ""
+        }
+    },
+    "hero": {
+        "title1": "Creative & Responsive",
+        "title2": "<span>HTML5</span> Template",
+        "description": " Empowering Financial Excellence in East Africa OR Driving Sustainable Growth for Your Organization",
+        "buttonText": "Consult Now"
+    },
+    "about": {
+        "title": "Learn About Us",
+        "paragraph1": " Empowering Financial Excellence in East Africa OR Driving Sustainable Growth for Your Organization velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum, viverra quis sem. Curabitur non nisl nec nisi scelerisque maximus. Aenean consectetur convallis porttitor. Aliquam interdum at lacus non blandit.",
+        "paragraph2": " Empowering Financial Excellence in East Africa OR Driving Sustainable Growth for Your Organization velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum, viverra quis sem. Curabitur non nisl nec nisi scelerisque maximus. Aenean consectetur convallis porttitor. Aliquam interdum at lacus non blandit.",
+        "buttonText": "Learn More"
+    }
+}
